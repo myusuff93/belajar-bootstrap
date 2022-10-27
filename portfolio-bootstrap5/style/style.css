@@ -2,6 +2,9 @@ body {
   font-family: "Quicksand", Arial, Helvetica, sans-serif;
   font-weight: 500;
 }
+section {
+  padding-top: 5rem;
+}
 
 .base-color {
   background-color: hsl(204, 57%, 46%);
